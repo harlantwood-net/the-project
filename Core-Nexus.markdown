@@ -52,7 +52,7 @@ Private Search
 
 Meta / Methodological
 =====================
-[Integral Methodological Pluralism](http://www.slideshare.net/timbomb/integral-methodological-pluralismkey) or better
+[Integral Methodological Pluralism](http://www.slideshare.net/timbomb/integral-methodological-pluralismkey) and better
 
 * * *
 
