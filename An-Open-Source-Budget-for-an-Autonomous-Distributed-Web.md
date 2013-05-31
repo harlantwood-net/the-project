@@ -3,7 +3,7 @@ An Open Source Budget for an Autonomous Distributed Web
 
 This budget is designed to answer the question, "If you had up to 100 million dollars that you wanted to donate to creating an autonomous, distributed web, as the logical next step after today's proprietary data silos, how would you divide it?"
 
-This document is created intentionally as a _straw man_ -- though necessarily incomplete and surely flawed, it is intended to at stimulate debate and further ideas.  If you wish to contribute, please fork this proposal, changing it in any way you see fit to create a better version.
+This document is created intentionally as a _straw man_ -- though necessarily incomplete and surely flawed, it is intended to at stimulate debate and further ideas.  If you wish to contribute, please [fork this proposal](http://prose.io/#harlantwood-net/the-project/edit/master/An-Open-Source-Budget-for-an-Autonomous-Distributed-Web.md), changing it in any way you see fit to create a better version.
 
 
 Three Year _Ideal_ Project Budgets
