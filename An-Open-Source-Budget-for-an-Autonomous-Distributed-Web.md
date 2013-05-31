@@ -6,7 +6,7 @@ This budget is designed to answer the question, "If you had up to 100 million do
 This document is created intentionally as a _straw man_ -- though necessarily incomplete and surely flawed, it is intended to at stimulate debate and further ideas.  If you wish to contribute, please [fork this proposal](http://prose.io/#harlantwood-net/the-project/edit/master/An-Open-Source-Budget-for-an-Autonomous-Distributed-Web.md), changing it in any way you see fit to create a better version.
 
 
-Three Year _Ideal_ Project Budgets
+Three Year Project Budgets (Ideal)
 ----------------------------------
 
 - $30M - [Personal Cloud](https://github.com/airships/zephyr/wiki/Personal-Clouds)
@@ -28,10 +28,22 @@ Three Year _Ideal_ Project Budgets
 Interesting Projects - Ask for Budgets
 --------------------------------------
 
-- $?M - [Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki#smallest-federated-wiki-goals)
-- $?M - [Freedom Box](http://freedomboxfoundation.org/)
-- $?M - [Camlistore](http://camlistore.org/)
-- $?M - [XDI](http://journal.planetwork.net/article.php?lab=reed0704)
+- [Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki#smallest-federated-wiki-goals)
+- [Freedom Box](http://freedomboxfoundation.org/)
+- [Camlistore](http://camlistore.org/)
+- [XDI](http://journal.planetwork.net/article.php?lab=reed0704)
+- Federated Social Web: distributed autonomous social network (filter: [Evan Prodromou](http://evan.status.net/))
+- [Planetwork / N2N](http://n2n.planetwork.net/)
+- [Spaciousness](http://spaciousness.org/) 
+- [Nooron](http://nooron.org/)
+- [Ursula Project](http://ursulaproject.org/)
+- [Mediagoblin](http://mediagoblin.org/)
+- [Open Photo project](http://theopenphotoproject.org/)
+- [Better Means](http://bettermeans.com/)
+- [hypothes.is](https://hypothes.is/) 
+- Pattern Language Encyclopedia 
+- [Tom Atlee](http://tom-atlee.posterous.com/)
+- [Microformats](http://microformats.org/)
 
 
 What if there was plenty of money?  There are many philanthropists searching for exactly how to make the largest global impact possible with their finite but abundant gifts.
