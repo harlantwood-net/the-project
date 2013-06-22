@@ -58,6 +58,7 @@ Public Domain:
 To the extent possible under law, all authors of this work have waived all copyright and related or neighboring rights to this work.
 
 Authors: 
+
 * Harlan T Wood  
-* 
-*   
+*
+*
