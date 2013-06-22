@@ -60,5 +60,3 @@ To the extent possible under law, all authors of this work have waived all copyr
 Authors: 
 
 * Harlan T Wood  
-*
-*
